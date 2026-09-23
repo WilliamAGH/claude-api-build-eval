@@ -36,4 +36,4 @@ The CLI extracts these files each session to a temporary path, `<tmp>/bundled-sk
 
 ## License
 
-The guides and scripts are Anthropic's content, distributed with Claude Code under Anthropic's commercial terms. This repo is private and for internal team reference only. Do not make it public.
+The guides and scripts are Anthropic's content, distributed with Claude Code under Anthropic's commercial terms.
